@@ -1,2 +1,1 @@
-# F555
-Termux.command
+pyphisher.py
